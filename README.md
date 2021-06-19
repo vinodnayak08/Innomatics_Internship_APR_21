@@ -3,5 +3,5 @@
 ###       &nbsp;&nbsp;&nbsp;       -- Vinod Nayak     
 ###       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Intern ID : IN30032
 
-<img src="https://www.innomatics.in/" width="400" height="280">
+<img src="https://www.innomatics.in/wp-content/uploads/2020/01/Innomatics-Research-Labs-Logo-Best-Data-Science-Digital-Marketing-training-Institue-in-Hyderabad-India-Awarded-by-TOI.png" width="400" height="280">
 
